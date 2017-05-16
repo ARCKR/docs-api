@@ -1,1 +1,1 @@
-# docs-api
+https://docs.arckr.com/api
