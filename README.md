@@ -1,1 +1,1 @@
-https://docs.arckr.com/api
+https://docs.arckr.com/api/
